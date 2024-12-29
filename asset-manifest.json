@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.50727690.css",
-    "main.js": "/static/js/main.cc6ba243.js",
+    "main.js": "/static/js/main.19dab1ec.js",
     "static/media/Geometria-Regular.woff": "/static/media/Geometria-Regular.8a7c9bf6c4fb69e13595.woff",
     "static/media/Geometria-Medium.woff": "/static/media/Geometria-Medium.1b16651e7f4cc351074f.woff",
     "static/media/Geometria-Bold.woff": "/static/media/Geometria-Bold.749ba15d9513267906cf.woff",
@@ -23,10 +23,10 @@
     "static/media/close.svg": "/static/media/close.5e559af5ae350e2df2be55934cf1f93f.svg",
     "static/media/plus.svg": "/static/media/plus.dc50459e7cfef803ab56.svg",
     "main.50727690.css.map": "/static/css/main.50727690.css.map",
-    "main.cc6ba243.js.map": "/static/js/main.cc6ba243.js.map"
+    "main.19dab1ec.js.map": "/static/js/main.19dab1ec.js.map"
   },
   "entrypoints": [
     "static/css/main.50727690.css",
-    "static/js/main.cc6ba243.js"
+    "static/js/main.19dab1ec.js"
   ]
 }
