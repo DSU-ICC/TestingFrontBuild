@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7a89f871.css",
-    "main.js": "/static/js/main.149798bc.js",
+    "main.css": "/static/css/main.196cd3a7.css",
+    "main.js": "/static/js/main.d640a7dd.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
     "static/media/Geometria-Regular.woff": "/static/media/Geometria-Regular.8a7c9bf6c4fb69e13595.woff",
@@ -85,11 +85,11 @@
     "static/media/edit.svg": "/static/media/edit.b361977f388f5b8fef6c.svg",
     "static/media/close.svg": "/static/media/close.5e559af5ae350e2df2be55934cf1f93f.svg",
     "static/media/plus.svg": "/static/media/plus.dc50459e7cfef803ab56.svg",
-    "main.7a89f871.css.map": "/static/css/main.7a89f871.css.map",
-    "main.149798bc.js.map": "/static/js/main.149798bc.js.map"
+    "main.196cd3a7.css.map": "/static/css/main.196cd3a7.css.map",
+    "main.d640a7dd.js.map": "/static/js/main.d640a7dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a89f871.css",
-    "static/js/main.149798bc.js"
+    "static/css/main.196cd3a7.css",
+    "static/js/main.d640a7dd.js"
   ]
 }
